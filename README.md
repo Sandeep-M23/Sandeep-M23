@@ -22,10 +22,6 @@ Hey 👋,I am Sandeep M, Currently pursuing Bachelor of Engineering in Computer 
 
 ### <h2 align="center">My Contribution Streak 🔥<h2/>
 
-<p align="center">
-  <a href="https://github.com/Sandeep-M23/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-M23&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
 
 ### <h2 align="center">Github Stats 📈<h2/>
   
