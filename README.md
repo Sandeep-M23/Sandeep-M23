@@ -24,7 +24,3 @@ Hey 👋,I am Sandeep M, Currently pursuing Bachelor of Engineering in Computer 
 
 
 ### <h2 align="center">Github Stats 📈<h2/>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeep-M23&show_icons=true&theme=midnight-purple&count_private=true" alt="Sandeep-M23" />
-</p>
