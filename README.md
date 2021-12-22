@@ -21,6 +21,3 @@ Hey 👋,I am Sandeep M, Currently pursuing Bachelor of Engineering in Computer 
 </br>
 
 ### <h2 align="center">My Contribution Streak 🔥<h2/>
-
-
-### <h2 align="center">Github Stats 📈<h2/>
