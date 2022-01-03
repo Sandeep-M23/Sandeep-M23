@@ -1,4 +1,4 @@
-Hey 👋,I am Sandeep M, Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm currently into Web Development 💻 and working on my data structure and Algorithm skills. I'm a passionate learner who's always willing to learn and work across new technologies 💡. Besides programming, I enjoy playing sports & watching Movies.
+Hey 👋,I am Sandeep M, Currently pursuing Bachelor of Engineering in Computer Science 🎓. I'm currently into Web Development 💻 and working on my data structure and Algorithm skills. I'm a passionate learner who's always willing to learn and work across new technologies 💡. Besides programming, I enjoy playing guitar & watching Movies.
 
 ### <h2 align="center">Languages and Tools 🛠️<h2/>
   
