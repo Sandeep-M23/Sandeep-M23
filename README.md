@@ -1,10 +1,6 @@
 # Hi, I'm Sandeep 👋
 
-Full-stack engineer in Bengaluru with about 3 years of experience building and running production SaaS, from the database to the UI.
-
-Most recently I was a **founding engineer at Outbox Labs** (Feb 2024 – Oct 2026), where I led engineering for ColdMailReseller.com, Zapmail's white-label B2B platform. It grew to **1M+ mailboxes and 330K+ domains**.
-
-Before that I was a frontend developer at **OpenInApp** (Sep 2023 – Jan 2024), where I shipped four creator-monetization features in Next.js and SSR smart-link redirection.
+Full-stack engineer with experience building and scaling production SaaS products end to end, from event-driven backends and third-party integrations to fast, maintainable web frontends. Owns problems across the stack, with a focus on system design, reliability and performance.
 
 ## Tech I work with
 
